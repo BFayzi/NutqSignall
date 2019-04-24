@@ -1,1 +1,1 @@
-# AvtomabilKuzatuv
+Nutq Signallariga raqamli ishlov berish
